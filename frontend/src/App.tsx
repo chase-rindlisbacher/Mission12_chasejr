@@ -4170,6 +4170,7 @@ class TeamCard extends React.Component<{
   name: string;
   city: string;
   state: string;
+  // could also do any: any; which would accept any parameter name and any parameter type
 }> {
   render() {
     const oneTeam = this.props;
