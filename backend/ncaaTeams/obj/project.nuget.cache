@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "weKW3BUptn0VE4JcELH9m2oEEbVQLqmvkZKSiNAlPaDCv8jT70zAuKi+59aXnVgK3N/voX/86srLMiCbGqEDlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cjrja\\IS413\\Mission12_chasejr\\backend\\ncaaTeams\\ncaaTeams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjrja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cjrja\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cjrja\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\cjrja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\cjrja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\cjrja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
