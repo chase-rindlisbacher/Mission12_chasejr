@@ -4208,6 +4208,7 @@ function App() {
   return (
     <div className="App">
       <Siteinfo />
+      {/* The ListTeams function call, calls the TeamCard component bringing the total components present to 3 */}
       <ListTeams />
     </div>
   );
